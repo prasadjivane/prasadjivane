@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello ..! 👋
 
 <!--
 **prasadjivane/prasadjivane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" width="15%" src="https://avatars.githubusercontent.com/u/26869583?s=400&u=8c9a996345561857883551a696cfd390c0a0930b&v=4">
+- 👋 I’m <strong>Prasad Jivane</strong><br>
+- 👀 Interested in ... Product Developement<br>
+- 🌱 Currently exploring ... Machine Learning & AI<br>
+- 💞️ Open Source Contribution ... <br>
+
+CTO [Atsparks](https://atsparks.org)<br>
+💬 How to reach me ... [Prasad Jivane](https://www.linkedin.com/in/prasadjivane)
