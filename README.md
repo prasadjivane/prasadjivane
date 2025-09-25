@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 💞️ Open Source Contribution ... <br>
 
 🧑‍💻	CTO [Atsparks](https://atsparks.org)<br>
-💬 How to reach me ... [Prasad Jivane](https://github.com/prasadjivane/prasadjivane)
+💬 How to reach me ... [Prasad Jivane](https://github.com/prasadjivane)
