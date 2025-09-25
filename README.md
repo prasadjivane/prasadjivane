@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <img align="left" width="15%" src="https://avatars.githubusercontent.com/u/26869583?s=400&u=8c9a996345561857883551a696cfd390c0a0930b&v=4">
 - 👋 I’m <strong>Prasad Jivane</strong><br>
-- 👀 Interested in ... Product Developement<br>
+- 👀 Interested in ... Product Development <br>
 - 🌱 Currently exploring ... Machine Learning & AI<br>
 - 💞️ Open Source Contribution ... <br>
 
 🧑‍💻	CTO [Atsparks](https://atsparks.org)<br>
-💬 How to reach me ... [Prasad Jivane](https://www.linkedin.com/in/prasadjivane)
+💬 How to reach me ... [Prasad Jivane](https://github.com/prasadjivane/prasadjivane)
