@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🌱 Currently exploring ... Machine Learning & AI<br>
 - 💞️ Open Source Contribution ... <br>
 
-🧑‍💻	CTO [Atsparks](https://atsparks.org)<br>
+🧑‍💻	CTO [Atsparks](https://github.com/prasadjivane)<br>
 💬 How to reach me ... [Prasad Jivane](https://github.com/prasadjivane)
